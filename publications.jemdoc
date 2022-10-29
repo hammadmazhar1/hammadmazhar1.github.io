@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+==Publications
+
+- *All Your Credentials Are Belong To Us: On Insecure WPA2-Enterprise Configurations* \n
+	Man Hong Hue, Joyantha Debnath, Kin Man Leung, Li Li, Mohsne Minaei, *M. Hammad Mazhar*, Kailiang Xian, Endadul Hoque, Omar Chowdhury, Sze Yiu Chau \n
+	ACM Conference on Computer and Communications Security (*CCS*), 2021 \n
+	Acceptance rate: 65/315 = 20.6\% \n
+	[https://dl.acm.org/doi/abs/10.1145/3460120.3484569 Download PDF]\n
+
+ - *Characterizing Smart Home IoT Traffic in the Wild* \n
+ 	*M. Hammad Mazhar*, Zubair Shafiq\n
+ 	ACM\/IEEE Internet of Things Design and Implementation (*IoTDI*), 2020\n
+ 	Acceptance rate: 24/68 = 35.2%\n
+ 	[https://arxiv.org/pdf/2001.08288.pdf Download PDF], [presentations/iotdi_2020_slides.pdf Download Slides]\n
+
+ - *Real-time Video Quality of Experience Monitoring for HTTPS and QUIC* \n
+ 	*M. Hammad Mazhar*, Zubair Shafiq\n
+ 	IEEE International Conference on Computer Communications (*INFOCOM*), 2018\n
+ 	Acceptance rate: 309/1606=19.2\%\n
+ 	[pubs/real-time-infocom18.pdf Download PDF], [presentations/infocom-18-slides.pdf Download Slides]\n
