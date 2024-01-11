@@ -39,13 +39,16 @@ My industrial collaborators include: \n
 - Since Zubair Shafiq has moved to UC Davis, I have changed advisors. My new advisor is Omar Chowdhury. 
 - My work titled *Characterizing Smart Home IoT Traffic in the Wild* has been accepted for publication at ACM/IEEE Internet of Things Design and Implementation (IoTDI) 2020.
 - I recently completed a summer internship in Summer 2019 with [https://www.minim.co Minim], developing prototypes for detecting anomalous network traffic behavior in Smart Home IoT devices. \n
+
 == Recent Publications 
+- *M. Hammad Mazhar*, Li Li, Endadul Hoque, Omar Chowdhury [https://dl.acm.org/doi/10.1145/3558482.3590188 \"*MAVERICK: An App-Independent and Platform Agnostic Approach to Enforce Policies in IoT Systems at Runtime*\"] \n
+In ACM WiSec 2023: ACM Conference on Security and Privacy of Wireless Networks (WiSec) 2023.
 - Man Hong Hue, Joyantha Debnath, Kin Man Leung, Li Li, Mohsen Minaei, *M. Hammad Mazhar*, Kailiang Xian, Endadul Hoque, Omar Chowdhury, Sze Yiu Chau, [https://dl.acm.org/doi/abs/10.1145/3460120.3484569 \"*All your credentials are belong to us: On Insecure WPA2-Enterprise Configurations*\"].\n 
-In ACM CCS 2021: ACM Conference on Computer and Communications Security (CCS) 2021.
+In ACM CCS 2021: ACM Conference on Computer and Communications Security 2021.
 - *M. Hammad Mazhar*, Z. Shafiq , [https://arxiv.org/abs/2001.08288 \"*Characterizing Smart Home IoT Traffic in the Wild*\"].\n
 In ACM\/IEEE IoTDI 2020: ACM\/IEEE Internet of Things Design and Implementation, 2020.
 - *M. Hammad Mazhar*, Z. Shafiq , [pubs/real-time-infocom18.pdf \"*Real-time Video Quality of Experience Monitoring for HTTPS and QUIC*\"].\n
-In IEEE INFOCOM'18: IEEE International Conference on Computer Communications, 2018.
+In IEEE INFOCOM 2018: IEEE International Conference on Computer Communications, 2018.
 
 [publications.html Full list of publications].
 \n
