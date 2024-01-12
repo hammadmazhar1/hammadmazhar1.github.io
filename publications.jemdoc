@@ -1,9 +1,11 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 ==Publications
-- *MAVERICK: An App-Independent and Platform Agnostic Approach to Enforce Policies in IoT Systems at Runtime* \network
+
+- *MAVERICK: An App-Independent and Platform Agnostic Approach to Enforce Policies in IoT Systems at Runtime* \n
 	*M. Hammad Mazhar*, Li Li, Endadul Hoque, Omar Chowdhury \n
-	ACM Conference on Security and Privact of Wireless Networks (*WiSec*), 2023 \n
-	[https://dl.acm.org/doi/10.1145/3558482.3590188 ACM], [https://arxiv.org/abs/2302.01452 Full Version]\n	
+	ACM Conference on Security and Privacy of Wireless Networks (*WiSec*), 2023 \n
+	[https://dl.acm.org/doi/10.1145/3558482.3590188 ACM], [https://arxiv.org/abs/2302.01452 Full Version]\n
+
 - *All Your Credentials Are Belong To Us: On Insecure WPA2-Enterprise Configurations* \n
 	Man Hong Hue, Joyantha Debnath, Kin Man Leung, Li Li, Mohsne Minaei, *M. Hammad Mazhar*, Kailiang Xian, Endadul Hoque, Omar Chowdhury, Sze Yiu Chau \n
 	ACM Conference on Computer and Communications Security (*CCS*), 2021 \n
